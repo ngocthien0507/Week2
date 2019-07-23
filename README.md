@@ -12,10 +12,12 @@ Completed user stories:
 	 * [x] Required: Display total photos, follower , follwing (hard code).
 	 * [x] Required: List out user's beautiful photos.
 	 * [x] Optional: Style follow button and send message button has shadow.
-	 * [x] Optional: Create bottom tab layout 
-	 * [x] Optional:
+	 * [x] Optional: Create bottom tab layout using  Flex + Vector icons. Move to new Screen when press on tab bar item.
+	 * [x] Optional: Layout header with Back button  and filter button.
+	 * [x] Optional: When tap on pictures, move to pictures's infomation screen which display pictures in big size and some infomation about it.
+	 * [x] Optional: Go back to home screen when press on home button.
 
-**Hướng dẫn:** 
-![Week1GIF](https://user-images.githubusercontent.com/48592936/61394062-8b0acd80-a8ec-11e9-82ed-3166a2e9f0a3.gif)
+**Walkthrough of all user stories:** 
+![Week2GIF](https://user-images.githubusercontent.com/48592936/61740548-14247780-adb9-11e9-885f-0f7d4c6876b1.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
